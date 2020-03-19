@@ -1,2 +1,2 @@
 # Basic Banking System (JAVA)
- Basic nacking system 
+ Basic Banking system 
